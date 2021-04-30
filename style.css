@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    background-color: rgb(65, 151, 108);
+}
+#h1{
+    box-sizing: border-box;
+    text-align: center;
+    color: rgb(33, 20, 220);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+#img{
+    text-align: center;
+    padding-top: 20px;
+
+}
